@@ -14,6 +14,8 @@ ControllerID DeviceID Command Data
 
 1234 1234 setTemp 60-90
 
+
+
 The Thermostat will broadcast data in similar form
 DeviceType DeviceID DataType Data/Status
 
