@@ -29,4 +29,5 @@ HVAC 1234 Humidity integer-percentage
 
 HVAC 1234 Temperature integer-fahrenheit
   
-  
+# Scripts
+Use the Thermostat script to simulate a device broadcasting data
